@@ -1,7 +1,7 @@
 
 
 
-echo "Inroduce-ti calea de cautare"
+echo "Introduce-ti calea de cautare"
 $path = Read-Host
 
 echo "Introduce-ti calea unde doriti arhivele puse"
